@@ -480,4 +480,476 @@ LogInit: Rocket: 1
 [2015.03.09-08.14.03:202][  0]LogCollectionManager: Loaded 0 collections in 0.002094 seconds
 [2015.03.09-08.14.03:217][  0]LogContentBrowser: Native class hierarchy populated in 0.0147 seconds. Added 1696 classes and 261 folders.
 [2015.03.09-08.14.03:262][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0032 seconds. Added 1 classes and 2 folders.
-[2015.03.09-08.14.03:333][  0]LogCrashTracker: Crashtr
+[2015.03.09-08.14.03:333][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2015.03.09-08.14.03:334][  0]LogSlate:Warning: Failed to load font data from 'Veranda'
+[2015.03.09-08.14.03:339][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2015.03.09-08.14.03:369][  0]LogLoad: Full Startup: 28.43 seconds (BP compile: 0.79 seconds)
+[2015.03.09-08.14.07:118][  0]LogRenderer:Warning: Reallocating scene render targets to support 808x344 (Frame:3).
+[2015.03.09-08.14.08:361][  1]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/ThirdPersonBP'
+[2015.03.09-08.14.15:635][ 23]LogAssetRegistry: Asset discovery search completed in 21.5451 seconds
+[2015.03.09-08.16.46:404][ 77]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-08.16.46:405][ 77]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-08.16.54:584][240]SourceControl:Error: Error Failed to connect to source control. Check your settings and connection then try again.
+[2015.03.09-08.16.58:917][347]SourceControl:Error: Error Failed to connect to source control. Check your settings and connection then try again.
+[2015.03.09-08.16.59:809][387]SourceControl:Error: Error Failed to connect to source control. Check your settings and connection then try again.
+[2015.03.09-08.17.07:263][521]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-08.17.07:263][521]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-08.17.07:263][521]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-08.17.07:263][521]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-08.20.24:660][ 52]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-08.20.24:661][ 52]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-08.20.24:661][ 52]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-08.20.24:662][ 52]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-08.20.32:373][253]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-08.20.32:373][253]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-08.20.32:374][253]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-08.20.32:374][253]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-09.20.36:487][285]LogHttp:Warning: Timeout processing Http request. 000000BEDDB5B900 url=http://et2.epicgames.com/ET2/CollectData.1?SessionID=%7BADCB6245-4F00-1C79-F5FC-2583EC50D648%7D&AppID=Rocket.Release&AppVersion=4.7.2-2467323%2B%2B%2Bdepot%2BUE4-Releases%2B4.7&UserID=442c2b0749203cd3556aebbd0f8ec96c%7Cce7b7dc83a684cf6b1a4b6319736cc4a%7Ca511faf7-a035-44c9-9d25-c59b3ab80b43&IsEditor=1
+[2015.03.09-09.20.36:546][286]LogHttp:Warning: InternetStatusCallbackWinInet: on invalid request 000000BEDDB5B900. 
+[2015.03.09-09.20.36:546][286]LogHttp:Warning: InternetStatusCallbackWinInet: on invalid request 000000BEDDB5B900. 
+[2015.03.09-09.20.36:546][286]LogHttp:Warning: InternetStatusCallbackWinInet: on invalid request 000000BEDDB5B900. 
+[2015.03.09-10.49.08:194][383]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.08:194][383]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.08:194][383]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.08:194][383]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.12:442][401]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.12:442][401]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.12:442][401]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.12:442][401]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.12:542][403]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2015.03.09-10.49.22:574][646]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.22:575][646]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.22:575][646]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.22:576][646]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.22:576][646]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.22:577][646]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.26:164][717]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.26:165][717]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.26:689][727]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.26:689][727]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.26:742][728]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.26:743][728]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.26:794][729]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.26:794][729]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.26:848][730]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.26:848][730]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.26:899][731]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.26:900][731]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.26:950][732]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.26:951][732]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.27:003][733]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.27:003][733]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.27:055][734]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.27:055][734]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.27:108][735]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.27:109][735]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.27:160][736]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.27:160][736]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.27:212][737]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.27:213][737]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.27:264][738]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.27:265][738]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.28:926][763]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.28:926][763]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.28:926][763]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.28:926][763]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.43:746][870]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.43:746][870]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.44:276][880]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.44:276][880]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.44:330][881]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.44:330][881]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.44:383][882]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.44:383][882]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.44:436][883]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.44:437][883]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.44:488][884]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.44:489][884]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.44:540][885]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.44:540][885]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.44:590][886]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.44:591][886]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.44:644][887]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.44:644][887]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.44:696][888]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.44:696][888]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.44:749][889]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.44:749][889]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.44:800][890]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.44:800][890]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.44:853][891]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.44:854][891]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.44:854][891]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.44:854][891]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.44:905][892]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.44:905][892]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.44:956][893]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.44:956][893]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.45:007][894]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.45:008][894]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.45:059][895]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.45:060][895]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.45:114][896]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.45:114][896]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.45:167][897]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.45:168][897]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.45:221][898]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.45:221][898]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.45:275][899]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.45:275][899]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=5 OutResults=''
+[2015.03.09-10.49.45:327][900]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.45:328][900]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=5 OutResults=''
+[2015.03.09-10.49.45:381][901]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.45:392][901]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.45:393][901]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.45:395][901]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=87 OutResults=''
+[2015.03.09-10.49.46:218][917]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.46:222][917]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.47:480][941]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.47:482][941]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.47:956][950]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.47:959][950]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.48:008][951]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.48:011][951]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.48:059][952]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.48:062][952]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.48:112][953]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.48:115][953]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.48:164][954]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.48:166][954]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.48:217][955]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.48:220][955]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.48:268][956]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.48:270][956]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.49.48:321][957]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.48:323][957]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=87 OutResults=''
+[2015.03.09-10.49.50:060][984]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.50:061][984]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=87 OutResults=''
+[2015.03.09-10.49.50:061][984]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.49.50:063][984]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=87 OutResults=''
+[2015.03.09-10.50.01:353][ 58]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.50.01:353][ 58]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=5 OutResults=''
+[2015.03.09-10.50.02:401][ 78]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.50.02:401][ 78]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=5 OutResults=''
+[2015.03.09-10.50.02:401][ 78]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.50.02:402][ 78]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=5 OutResults=''
+[2015.03.09-10.50.02:505][ 80]SourceControl:Error: Error Failed to connect to source control. Check your settings and connection then try again.
+[2015.03.09-10.50.04:773][155]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.50.04:773][155]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=5 OutResults=''
+[2015.03.09-10.50.05:327][165]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.50.05:327][165]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.50.05:602][170]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.50.05:602][170]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.50.06:043][178]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.50.06:044][178]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.50.06:541][187]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.50.06:541][187]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.50.06:765][191]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.50.06:765][191]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.50.06:933][194]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.50.06:933][194]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.50.07:045][196]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.50.07:045][196]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.50.07:267][200]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.50.07:268][200]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.50.07:709][208]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.50.07:709][208]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.50.07:992][213]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.50.07:992][213]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.50.11:122][265]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.50.11:122][265]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.50.11:123][265]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.50.11:123][265]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.50.14:819][276]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.50.14:819][276]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.50.14:819][276]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.50.14:819][276]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.50.17:019][317]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.50.17:019][317]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.50.17:335][323]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.50.17:335][323]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.50.19:851][371]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.50.19:851][371]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.50.20:448][382]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.50.20:448][382]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.50.21:864][408]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.50.21:864][408]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.50.21:864][408]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.50.21:865][408]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.50.21:914][409]SourceControl:Error: Error Failed to connect to source control. Check your settings and connection then try again.
+[2015.03.09-10.51.39:857][729]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.51.39:867][729]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.51.41:284][757]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.51.41:296][757]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.51.41:792][767]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.51.41:804][767]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.51.41:805][767]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.51.41:815][767]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.51.41:845][768]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.51.41:857][768]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.51.41:896][769]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.51.41:909][769]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.51.41:910][769]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.51.41:918][769]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.51.41:947][770]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.51.41:959][770]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.51.42:000][771]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.51.42:013][771]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.51.42:015][771]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.51.42:019][771]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=87 OutResults=''
+[2015.03.09-10.51.43:120][787]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.51.43:123][787]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=87 OutResults=''
+[2015.03.09-10.51.43:123][787]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.51.43:126][787]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=87 OutResults=''
+[2015.03.09-10.52.08:316][949]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.52.08:317][949]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=5 OutResults=''
+[2015.03.09-10.52.13:842][ 60]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.52.13:842][ 60]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=5 OutResults=''
+[2015.03.09-10.52.16:467][111]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.52.16:467][111]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.52.16:672][115]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.52.16:673][115]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.52.16:980][121]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.52.16:981][121]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.52.17:597][133]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.52.17:598][133]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.52.17:857][138]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.52.17:857][138]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.52.18:010][141]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.52.18:011][141]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.52.18:216][145]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.52.18:216][145]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.52.18:524][151]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.52.18:524][151]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.52.18:987][160]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.52.18:988][160]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.52.19:346][167]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.52.19:347][167]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.52.20:224][184]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.52.20:225][184]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.52.20:225][184]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.52.20:226][184]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.52.20:321][186]SourceControl:Error: Error Failed to connect to source control. Check your settings and connection then try again.
+[2015.03.09-10.52.23:144][254]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.52.23:144][254]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.52.23:319][257]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.52.23:319][257]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.52.23:492][260]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.52.23:493][260]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.52.23:668][263]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.52.23:668][263]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.52.23:839][266]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.52.23:840][266]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.52.24:012][269]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.52.24:013][269]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.52.24:470][277]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.52.24:471][277]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.52.24:700][281]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.52.24:700][281]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.52.24:814][283]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.52.24:815][283]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.52.25:104][288]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.52.25:104][288]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.52.25:336][292]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.52.25:337][292]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.52.25:453][294]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.52.25:453][294]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.52.26:476][313]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.52.26:477][313]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.52.26:477][313]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.52.26:477][313]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.09-10.52.26:576][315]SourceControl:Error: Error Failed to connect to source control. Check your settings and connection then try again.
+[2015.03.09-10.52.46:013][490]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.52.46:013][490]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=5 OutResults=''
+[2015.03.09-10.52.47:139][512]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.52.47:139][512]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=5 OutResults=''
+[2015.03.09-10.52.47:140][512]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.09-10.52.47:140][512]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=5 OutResults=''
+[2015.03.09-10.52.47:259][515]SourceControl:Error: Error Failed to connect to source control. Check your settings and connection then try again.
+[2015.03.09-10.52.54:375][630]Cmd: QUIT_EDITOR
+[2015.03.09-10.52.55:399][630]LogExit: Preparing to exit.
+[2015.03.09-10.52.56:238][630]LogExit: Editor shut down
+[2015.03.09-10.52.56:240][630]LogExit: Transaction tracking system shut down
+[2015.03.09-10.52.56:242][630]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000BEE0627100
+[2015.03.09-10.52.56:243][630]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000BEDDB6D8A0
+[2015.03.09-10.52.56:244][630]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000BEDF4B5EE0
+[2015.03.09-10.52.56:245][630]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000BE884AACA0
+[2015.03.09-10.52.56:823][630]LogExit: Object subsystem successfully closed.
+[2015.03.09-10.52.57:058][630]LogModuleManager: Shutting down and abandoning module CrashTracker (177)
+[2015.03.09-10.52.57:058][630]LogModuleManager: Shutting down and abandoning module SuperSearch (176)
+[2015.03.09-10.52.57:058][630]LogModuleManager: Shutting down and abandoning module SceneOutliner (175)
+[2015.03.09-10.52.57:059][630]LogModuleManager: Shutting down and abandoning module EditorWidgets (174)
+[2015.03.09-10.52.57:059][630]LogModuleManager: Shutting down and abandoning module CollectionManager (173)
+[2015.03.09-10.52.57:059][630]LogModuleManager: Shutting down and abandoning module StatsViewer (172)
+[2015.03.09-10.52.57:061][630]LogModuleManager: Shutting down and abandoning module FoliageEdit (171)
+[2015.03.09-10.52.57:061][630]LogModuleManager: Shutting down and abandoning module LandscapeEditor (170)
+[2015.03.09-10.52.57:063][630]LogModuleManager: Shutting down and abandoning module MeshPaint (169)
+[2015.03.09-10.52.57:063][630]LogModuleManager: Shutting down and abandoning module ActorPickerMode (168)
+[2015.03.09-10.52.57:063][630]LogModuleManager: Shutting down and abandoning module GeometryMode (167)
+[2015.03.09-10.52.57:063][630]LogModuleManager: Shutting down and abandoning module TextureAlignMode (166)
+[2015.03.09-10.52.57:063][630]LogModuleManager: Shutting down and abandoning module BspMode (165)
+[2015.03.09-10.52.57:063][630]LogModuleManager: Shutting down and abandoning module PlacementMode (164)
+[2015.03.09-10.52.57:063][630]LogModuleManager: Shutting down and abandoning module AutomationWorker (163)
+[2015.03.09-10.52.57:063][630]LogModuleManager: Shutting down and abandoning module CharacterAI (162)
+[2015.03.09-10.52.57:063][630]LogModuleManager: Shutting down and abandoning module SmartSnapping (161)
+[2015.03.09-10.52.57:064][630]LogModuleManager: Shutting down and abandoning module ViewportSnapping (160)
+[2015.03.09-10.52.57:064][630]LogModuleManager: Shutting down and abandoning module LogVisualizer (159)
+[2015.03.09-10.52.57:066][630]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (158)
+[2015.03.09-10.52.57:067][630]LogModuleManager: Shutting down and abandoning module IntroTutorials (157)
+[2015.03.09-10.52.57:069][630]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (156)
+[2015.03.09-10.52.57:070][630]LogModuleManager: Shutting down and abandoning module HardwareTargeting (155)
+[2015.03.09-10.52.57:070][630]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (154)
+[2015.03.09-10.52.57:070][630]LogModuleManager: Shutting down and abandoning module UndoHistory (153)
+[2015.03.09-10.52.57:071][630]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (152)
+[2015.03.09-10.52.57:071][630]LogModuleManager: Shutting down and abandoning module UserFeedback (151)
+[2015.03.09-10.52.57:071][630]LogModuleManager: Shutting down and abandoning module XmlParser (150)
+[2015.03.09-10.52.57:072][630]LogModuleManager: Shutting down and abandoning module Blutility (149)
+[2015.03.09-10.52.57:072][630]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (148)
+[2015.03.09-10.52.57:072][630]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (147)
+[2015.03.09-10.52.57:072][630]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (146)
+[2015.03.09-10.52.57:312][630]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (145)
+[2015.03.09-10.52.57:312][630]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (144)
+[2015.03.09-10.52.57:312][630]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (143)
+[2015.03.09-10.52.57:313][630]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (142)
+[2015.03.09-10.52.57:313][630]LogModuleManager: Shutting down and abandoning module InputBindingEditor (141)
+[2015.03.09-10.52.57:315][630]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (140)
+[2015.03.09-10.52.57:315][630]LogModuleManager: Shutting down and abandoning module SettingsEditor (139)
+[2015.03.09-10.52.57:316][630]LogModuleManager: Shutting down and abandoning module ProjectLauncher (138)
+[2015.03.09-10.52.57:317][630]LogModuleManager: Shutting down and abandoning module SessionFrontend (137)
+[2015.03.09-10.52.57:318][630]LogModuleManager: Shutting down and abandoning module ProfilerClient (136)
+[2015.03.09-10.52.57:318][630]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (135)
+[2015.03.09-10.52.57:319][630]LogModuleManager: Shutting down and abandoning module DeviceManager (134)
+[2015.03.09-10.52.57:320][630]LogModuleManager: Shutting down and abandoning module AutomationController (133)
+[2015.03.09-10.52.57:321][630]LogModuleManager: Shutting down and abandoning module AutomationWindow (132)
+[2015.03.09-10.52.57:321][630]LogModuleManager: Shutting down and abandoning module Layers (131)
+[2015.03.09-10.52.57:324][630]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (130)
+[2015.03.09-10.52.57:324][630]LogModuleManager: Shutting down and abandoning module DetailCustomizations (129)
+[2015.03.09-10.52.57:325][630]LogModuleManager: Shutting down and abandoning module PackagesDialog (128)
+[2015.03.09-10.52.57:326][630]LogModuleManager: Shutting down and abandoning module AssetRegistry (127)
+[2015.03.09-10.52.57:421][630]LogModuleManager: Shutting down and abandoning module Persona (126)
+[2015.03.09-10.52.57:424][630]LogModuleManager: Shutting down and abandoning module SlateReflector (125)
+[2015.03.09-10.52.57:426][630]LogModuleManager: Shutting down and abandoning module LevelEditor (124)
+[2015.03.09-10.52.57:429][630]LogModuleManager: Shutting down and abandoning module Kismet (123)
+[2015.03.09-10.52.57:429][630]LogModuleManager: Shutting down and abandoning module GraphEditor (122)
+[2015.03.09-10.52.57:433][630]LogModuleManager: Shutting down and abandoning module ClassViewer (121)
+[2015.03.09-10.52.57:433][630]LogModuleManager: Shutting down and abandoning module Toolbox (120)
+[2015.03.09-10.52.57:433][630]LogModuleManager: Shutting down and abandoning module ModuleUI (119)
+[2015.03.09-10.52.57:433][630]LogModuleManager: Shutting down and abandoning module MovieSceneTools (118)
+[2015.03.09-10.52.57:435][630]LogModuleManager: Shutting down and abandoning module OutputLog (117)
+[2015.03.09-10.52.57:435][630]LogModuleManager: Shutting down and abandoning module GammaUI (116)
+[2015.03.09-10.52.57:436][630]LogModuleManager: Shutting down and abandoning module Documentation (115)
+[2015.03.09-10.52.57:436][630]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (114)
+[2015.03.09-10.52.57:436][630]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (113)
+[2015.03.09-10.52.57:437][630]LogModuleManager: Shutting down and abandoning module HTTP (112)
+[2015.03.09-10.52.57:438][630]LogModuleManager: Shutting down and abandoning module AnalyticsET (111)
+[2015.03.09-10.52.57:438][630]LogModuleManager: Shutting down and abandoning module Analytics (110)
+[2015.03.09-10.52.57:438][630]LogModuleManager: Shutting down and abandoning module AITestSuite (109)
+[2015.03.09-10.52.57:439][630]LogModuleManager: Shutting down and abandoning module GameplayDebugger (108)
+[2015.03.09-10.52.57:439][630]LogModuleManager: Shutting down and abandoning module AIModule (107)
+[2015.03.09-10.52.57:440][630]LogModuleManager: Shutting down and abandoning module ProfilerService (106)
+[2015.03.09-10.52.57:480][630]LogModuleManager: Shutting down and abandoning module TaskGraph (105)
+[2015.03.09-10.52.57:482][630]LogModuleManager: Shutting down and abandoning module SlateRemote (104)
+[2015.03.09-10.52.57:483][630]LogModuleManager: Shutting down and abandoning module ScriptEditorPlugin (103)
+[2015.03.09-10.52.57:483][630]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (102)
+[2015.03.09-10.52.57:483][630]LogModuleManager: Shutting down and abandoning module CableComponent (101)
+[2015.03.09-10.52.57:484][630]LogModuleManager: Shutting down and abandoning module MessagingDebugger (100)
+[2015.03.09-10.52.57:487][630]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (99)
+[2015.03.09-10.52.57:488][630]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (98)
+[2015.03.09-10.52.57:489][630]LogModuleManager: Shutting down and abandoning module PluginsEditor (97)
+[2015.03.09-10.52.57:490][630]LogModuleManager: Shutting down and abandoning module MainFrame (96)
+[2015.03.09-10.52.57:490][630]LogModuleManager: Shutting down and abandoning module EpicSurvey (95)
+[2015.03.09-10.52.57:491][630]LogModuleManager: Shutting down and abandoning module DesktopPlatform (94)
+[2015.03.09-10.52.57:493][630]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (93)
+[2015.03.09-10.52.57:495][630]LogModuleManager: Shutting down and abandoning module HotReload (92)
+[2015.03.09-10.52.57:495][630]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (91)
+[2015.03.09-10.52.57:496][630]LogModuleManager: Shutting down and abandoning module UObjectPlugin (90)
+[2015.03.09-10.52.57:496][630]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (89)
+[2015.03.09-10.52.57:497][630]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (88)
+[2015.03.09-10.52.57:503][630]LogModuleManager: Shutting down and abandoning module SourceControl (87)
+[2015.03.09-10.52.57:503][630]LogModuleManager: Shutting down and abandoning module GitSourceControl (86)
+[2015.03.09-10.52.57:503][630]LogModuleManager: Shutting down and abandoning module BlankPlugin (85)
+[2015.03.09-10.52.57:503][630]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (84)
+[2015.03.09-10.52.57:503][630]LogModuleManager: Shutting down and abandoning module PaperJsonImporter (83)
+[2015.03.09-10.52.57:503][630]LogModuleManager: Shutting down and abandoning module ContentBrowser (82)
+[2015.03.09-10.52.57:507][630]LogModuleManager: Shutting down and abandoning module Paper2DEditor (81)
+[2015.03.09-10.52.57:509][630]LogModuleManager: Shutting down and abandoning module ScriptPlugin (80)
+[2015.03.09-10.52.57:510][630]LogModuleManager: Shutting down and abandoning module UdpMessaging (79)
+[2015.03.09-10.52.57:611][630]LogModuleManager: Shutting down and abandoning module Paper2D (78)
+[2015.03.09-10.52.57:611][630]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (77)
+[2015.03.09-10.52.57:625][630]LogModuleManager: Shutting down and abandoning module Media (76)
+[2015.03.09-10.52.57:625][630]LogModuleManager: Shutting down and abandoning module WmfMedia (75)
+[2015.03.09-10.52.57:626][630]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2015.03.09-10.52.57:626][630]LogModuleManager: Shutting down and abandoning module PropertyEditor (73)
+[2015.03.09-10.52.57:626][630]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (72)
+[2015.03.09-10.52.57:628][630]LogModuleManager: Shutting down and abandoning module FunctionalTesting (71)
+[2015.03.09-10.52.57:628][630]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (70)
+[2015.03.09-10.52.57:630][630]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (69)
+[2015.03.09-10.52.57:630][630]LogModuleManager: Shutting down and abandoning module MessageLog (68)
+[2015.03.09-10.52.57:630][630]LogModuleManager: Shutting down and abandoning module Sequencer (67)
+[2015.03.09-10.52.57:634][630]LogModuleManager: Shutting down and abandoning module AssetTools (66)
+[2015.03.09-10.52.57:637][630]LogModuleManager: Shutting down and abandoning module UMGEditor (65)
+[2015.03.09-10.52.57:638][630]LogModuleManager: Shutting down and abandoning module UMG (64)
+[2015.03.09-10.52.57:639][630]LogModuleManager: Shutting down and abandoning module Slate (63)
+[2015.03.09-10.52.57:639][630]LogModuleManager: Shutting down and abandoning module EditorStyle (62)
+[2015.03.09-10.52.57:658][630]LogModuleManager: Shutting down and abandoning module SessionServices (61)
+[2015.03.09-10.52.57:658][630]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (60)
+[2015.03.09-10.52.57:658][630]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (59)
+[2015.03.09-10.52.57:658][630]LogModuleManager: Shutting down and abandoning module XAudio2 (58)
+[2015.03.09-10.52.57:658][630]LogModuleManager: Shutting down and abandoning module Networking (56)
+[2015.03.09-10.52.57:658][630]LogModuleManager: Shutting down and abandoning module Core (55)
+[2015.03.09-10.52.57:658][630]LogModuleManager: Shutting down and abandoning module KismetCompiler (54)
+[2015.03.09-10.52.57:659][630]LogModuleManager: Shutting down and abandoning module PhysXFormats (53)
+[2015.03.09-10.52.57:659][630]LogModuleManager: Shutting down and abandoning module MeshUtilities (52)
+[2015.03.09-10.52.57:660][630]LogModuleManager: Shutting down and abandoning module DerivedDataCache (51)
+[2015.03.09-10.52.57:698][630]LogDerivedDataCache: Shutdown
+[2015.03.09-10.52.57:698][630]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (50)
+[2015.03.09-10.52.57:699][630]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (49)
+[2015.03.09-10.52.57:700][630]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (48)
+[2015.03.09-10.52.57:700][630]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (47)
+[2015.03.09-10.52.57:700][630]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (46)
+[2015.03.09-10.52.57:701][630]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (45)
+[2015.03.09-10.52.57:701][630]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (44)
+[2015.03.09-10.52.57:702][630]LogModuleManager: Shutting down and abandoning module ImageWrapper (43)
+[2015.03.09-10.52.57:702][630]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (42)
+[2015.03.09-10.52.57:702][630]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (41)
+[2015.03.09-10.52.57:702][630]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (40)
+[2015.03.09-10.52.57:703][630]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (39)
+[2015.03.09-10.52.57:703][630]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (38)
+[2015.03.09-10.52.57:703][630]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (37)
+[2015.03.09-10.52.57:703][630]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (36)
+[2015.03.09-10.52.57:703][630]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (35)
+[2015.03.09-10.52.57:704][630]LogModuleManager: Shutting down and abandoning module Messaging (34)
+[2015.03.09-10.52.57:704][630]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (33)
+[2015.03.09-10.52.57:704][630]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (32)
+[2015.03.09-10.52.57:704][630]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (31)
+[2015.03.09-10.52.57:704][630]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (30)
+[2015.03.09-10.52.57:704][630]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (29)
+[2015.03.09-10.52.57:704][630]LogModuleManager: Shutting down and abandoning module Android_ES31TargetPlatform (28)
+[2015.03.09-10.52.57:704][630]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (27)
+[2015.03.09-10.52.57:705][630]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (26)
+[2015.03.09-10.52.57:705][630]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (25)
+[2015.03.09-10.52.57:705][630]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (24)
+[2015.03.09-10.52.57:705][630]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (23)
+[2015.03.09-10.52.57:705][630]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (22)
+[2015.03.09-10.52.57:705][630]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (21)
+[2015.03.09-10.52.57:705][630]LogModuleManager: Shutting down and abandoning module TargetPlatform (20)
+[2015.03.09-10.52.57:705][630]LogModuleManager: Shutting down and abandoning module InputCore (19)
+[2015.03.09-10.52.57:705][630]LogModuleManager: Shutting down and abandoning module Settings (18)
+[2015.03.09-10.52.57:705][630]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (16)
+[2015.03.09-10.52.57:705][630]LogModuleManager: Shutting down and abandoning module OculusRift (15)
+[2015.03.09-10.52.57:705][630]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (14)
+[2015.03.09-10.52.57:705][630]LogModuleManager: Shutting down and abandoning module TextureCompressor (13)
+[2015.03.09-10.52.57:706][630]LogModuleManager: Shutting down and abandoning module ShaderCore (12)
+[2015.03.09-10.52.57:706][630]LogModuleManager: Shutting down and abandoning module Landscape (11)
+[2015.03.09-10.52.57:706][630]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (10)
+[2015.03.09-10.52.57:713][630]LogModuleManager: Shutting down and abandoning module OpenGLDrv (9)
+[2015.03.09-10.52.57:713][630]LogModuleManager: Shutting down and abandoning module D3D11RHI (8)
+[2015.03.09-10.52.57:713][630]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2015.03.09-10.52.57:713][630]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2015.03.09-10.52.57:713][630]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2015.03.09-10.52.57:713][630]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2015.03.09-10.52.57:714][630]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2015.03.09-10.52.57:715][630]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2015.03.09-10.52.57:715][630]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2015.03.09-10.52.57:717][630]LogExit: Exiting.
+[2015.03.09-10.52.57:786][630]Log file closed, 03/09/15 11:52:57
