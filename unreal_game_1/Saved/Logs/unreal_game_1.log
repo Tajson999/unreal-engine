@@ -1,0 +1,45 @@
+﻿Log file open, 03/09/15 09:12:46
+LogInit:Display: Running engine for game: unreal_game_1
+LogInit: Version: 4.7.2-2467323+++depot+UE4-Releases+4.7
+LogInit: API Version: 2455222
+LogInit: Compiled (64-bit): Mar  2 2015 23:16:34
+LogInit: Compiled with Visual C++: 18.00.21005.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++depot+UE4-Releases+4.7
+LogInit: Command line: 
+LogInit: Base directory: C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/
+LogInit: Rocket: 1
+[2015.03.09-08.12.46:350][  0]LogTaskGraph: Started task graph with 3 named threads and 4 total threads.
+[2015.03.09-08.12.46:426][  0]LogOnline:Warning: No default platform service specified for OnlineSubsystem
+[2015.03.09-08.12.46:474][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[2015.03.09-08.12.46:503][  0]LogInit: Object subsystem initialized
+[2015.03.09-08.12.46:512][  0]LogInit: Selected Device Profile: [Windows]
+[2015.03.09-08.12.46:512][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2015.03.09-08.12.46:529][  0]LogInit: Computer: ALEX-SURFACE
+[2015.03.09-08.12.46:529][  0]LogInit: User: alexa000
+[2015.03.09-08.12.46:529][  0]LogInit: CPU Page size=4096, Cores=2
+[2015.03.09-08.12.46:529][  0]LogInit: High frequency timer resolution =2.435769 MHz
+[2015.03.09-08.12.46:529][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx) Virtual=131072.0GB
+[2015.03.09-08.12.46:530][  0]LogMemory: Platform Memory Stats for Windows
+[2015.03.09-08.12.46:530][  0]LogMemory: Process Physical Memory: 45.13 MB used, 45.13 MB peak
+[2015.03.09-08.12.46:530][  0]LogMemory: Process Virtual Memory: 22.24 MB used, 22.28 MB peak
+[2015.03.09-08.12.46:530][  0]LogMemory: Physical Memory: 3323.52 MB used, 8112.04 MB total
+[2015.03.09-08.12.46:530][  0]LogMemory: Virtual Memory: 287.50 MB used, 134217728.00 MB total
+[2015.03.09-08.12.46:561][  0]LogD3D11RHI: Found D3D11 adapter 0: Intel(R) HD Graphics Family (Feature Level 11_0)
+[2015.03.09-08.12.46:562][  0]LogD3D11RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 1792MB of shared system memory, 1 output[s]
+[2015.03.09-08.12.46:565][  0]LogD3D11RHI: Found D3D11 adapter 1: Microsoft Basic Render Driver (Feature Level 11_0)
+[2015.03.09-08.12.46:565][  0]LogD3D11RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 256MB of shared system memory, 0 output[s]
+[2015.03.09-08.12.46:565][  0]LogD3D11RHI: Chosen D3D11 Adapter Id = 0
+[2015.03.09-08.12.46:572][  0]LogRHI: Texture pool is 627 MB (70% of 896 MB)
+[2015.03.09-08.12.46:587][  0]LogD3D11RHI: Async texture creation enabled
+[2015.03.09-08.12.46:666][  0]LogTextLocalizationManager: The requested culture ('sv_SE') has no localization data; falling back to 'en' for localization and internationalization data.
+[2015.03.09-08.12.47:474][  0]LogContentStreaming: Texture pool size is 0.000000MB
+[2015.03.09-08.12.56:763][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2015.03.09-08.12.59:220][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2015.03.09-08.12.59:409][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2015.03.09-08.12.59:540][  0]LogDerivedDataCache: Loaded boot cache 0.13s 39MB C:/Users/alexa_000/AppData/Local/UnrealEngine/4.7/DerivedDataCache/Boot.ddc.
+[2015.03.09-08.12.59:540][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/alexa_000/AppData/Local/UnrealEngine/4.7/DerivedDataCache/Boot.ddc
+[2015.03.09-08.12.59:541][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/alexa_000/Desktop/unreal engine/unreal-engine/unreal_game_1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2015.03.09-08.12.59:541][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2015.03.09-08.12.59:987][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2015.03.09-08.13.00:004][  0]LogDerived
